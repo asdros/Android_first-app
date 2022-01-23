@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">E_learning_restaurants</string>
+    <string name="loginText" translatable="false">Login...</string>
+    <string name="passwordText">Password...</string>
+    <string name="buttonLoginText">Login</string>
+    <string name="buttonRegister">Register now</string>
+    <string name="emailText" translatable="false">E-mail...</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="buttonAddRestaurant">Add new restaurant</string>
+    <string name="errorTitle">Error!</string>
+    <string name="errorEmptyFields">The fields shouldn\'t be empty!</string>
+    <string name="errorLoginIncorrect">Login and/or password is not correct.</string>
+    <string name="errorAccountExists">An account with that username already exist</string>
+    <string name="infoRegisterSuccessful">Your account has been registered. You may now login</string>
+    <string name="inputRestaurantName">Restaurant name</string>
+    <string name="inputRestaurantPhone">Phone number</string>
+    <string name="buttonGps">Get GPS positions</string>
+    <string name="restaurantAdded">A new restarurant has been added!</string>
+    <string name="errorAPI">Error! Something bad happened.</string>
+    <string name="confirmDelete">Confirm delete?</string>
+    <string name="cancel">Cancel</string>
+    <string name="errorDeleting">Error during deleting</string>
+    <string name="infoDeletingSuccessful">Deleting successful</string>
+</resources>

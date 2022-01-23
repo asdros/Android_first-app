@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E_learning_restaurants</string>
+    <string name="passwordText">Hasło</string>
+    <string name="buttonLoginText">Zaloguj się</string>
+    <string name="buttonRegister">Zarejestruj się</string>
+    <string name="buttonSubmit">Zatwierdź</string>
+    <string name="buttonAddRestaurant">Dodaj restaurację</string>
+    <string name="errorTitle">Błąd</string>
+    <string name="errorEmptyFields">Pola nie powinny być puste!</string>
+    <string name="errorLoginIncorrect">"Nieprawidłowa nazwa użytkownika lub/i hasło "</string>
+    <string name="errorAccountExists">Konto o podanym loginie już istnieje.</string>
+    <string name="infoRegisterSuccessful">Konto zostało zarejestrowane i możesz się zalogować.</string>
+    <string name="inputRestaurantName">Nazwa restauracji</string>
+    <string name="inputRestaurantPhone">Numer telefonu</string>
+    <string name="buttonGps">Pobierz pozycję GPS</string>
+    <string name="restaurantAdded">Nowa restauracja została dodana,</string>
+    <string name="errorAPI">Błąd! Coś poszło nie tak,</string>
+    <string name="confirmDelete">Na pewno usunąć?</string>
+    <string name="cancel">Anuluj</string>
+    <string name="errorDeleting">Błąd podczas usuwania</string>
+    <string name="infoDeletingSuccessful">Usunięto pomyślnie</string>
+</resources>
